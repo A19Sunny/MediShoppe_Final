@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "540998649412",
+    "firebase_url": "https://medishoppeapp-519a0.firebaseio.com",
+    "project_id": "medishoppeapp-519a0",
+    "storage_bucket": "medishoppeapp-519a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540998649412:android:949663a26282cd05",
+        "android_client_info": {
+          "package_name": "com.dynamierslab.sunny.medishoppe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540998649412-6skt6qpcjpql42lgvjag1jrvv0er2laj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dynamierslab.sunny.medishoppe",
+            "certificate_hash": "ddf4db9a9bd97a855543e273e5cb7f250918731e"
+          }
+        },
+        {
+          "client_id": "540998649412-iop6tltd57pk69eclpfqs4u06t6mtmcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADVoY0CxKqOfY0-aN4GZmrVnEVmx3dv3g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540998649412-iop6tltd57pk69eclpfqs4u06t6mtmcn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

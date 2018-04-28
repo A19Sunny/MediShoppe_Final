@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f0932b</color>
+    <color name="colorPrimaryDark">#f0932b</color>
+    <color name="colorAccent">#badc58</color>
+    <color name="colorText">#130f40</color>
+    <color name="colorBackground">#f8f8f8</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="album_title">#4c4c4c</color>
+    <color name="colorGray">#bdbdbd</color>
+    <color name="contact_name">#333333</color>
+    <color name="contact_number">#8c8c8c</color>
+</resources>

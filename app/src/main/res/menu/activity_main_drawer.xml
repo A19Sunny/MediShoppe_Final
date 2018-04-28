@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:id="@+id/substitutes" android:icon="@drawable/ic_find_substitutes" android:title="Find Substitutes" />
+    <item android:id="@+id/order_prescription" android:icon="@drawable/ic_order_with_prescription" android:title="Order with Prescription" />
+    <item android:id="@+id/health_records" android:icon="@drawable/ic_health_bite" android:title="My Health Records" />
+    <item android:id="@+id/consult_online" android:icon="@drawable/ic_online_consultation" android:title="Consult Online" />
+    <item android:id="@+id/search_doctor" android:icon="@drawable/ic_doctor" android:title="Search a Doctor" />
+    <item android:id="@+id/about" android:icon="@drawable/ic_about" android:title="About Us" />
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/ic_signout"
+        android:title="Log Out"
+        android:visible="false" />
+
+</menu>

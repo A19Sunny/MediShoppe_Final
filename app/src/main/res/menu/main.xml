@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/fab_search"
+        android:icon="@drawable/search_icon_white"
+        android:title="Search Bar"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/cart_status"
+        android:icon="@drawable/empty_cart_icon"
+        android:iconTint="@color/colorBackground"
+        android:title="Cart"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/user_status"
+        android:icon="@drawable/user_nav"
+        android:title="@string/action_settings"
+        app:showAsAction="always" />
+</menu>
